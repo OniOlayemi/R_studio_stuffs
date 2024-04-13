@@ -92,4 +92,6 @@ results
 
 x <- 1
 
+attributes(x)
+comment()
 typeof(x)
